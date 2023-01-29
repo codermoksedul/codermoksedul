@@ -22,11 +22,11 @@ I am proficient in solving any problem of front and part WordPress or any other 
 Do not motivate to do another task until one task is completed.
 
 <h3>Connect with me</h3>
-<a target="_blank" href="https://www.facebook.com/dvmoksedul"><img width="30px" src="https://github.com/dvmoksedul/icons/blob/main/facebook.png" alt=""></a>
-<a target="_blank" href="https://instagram.com/dvmoksedul"><img width="30px" src="https://github.com/dvmoksedul/icons/blob/main/instagram.png?raw=true" alt=""></a>
-<a target="_blank" href="https://twitter.com/dvmoksedul"><img width="30px" src="https://github.com/dvmoksedul/icons/blob/main/twitter.png" alt=""></a>
-<a target="_blank" href="https://linkedin.com/in/dvmoksedul"><img width="30px" src="https://github.com/dvmoksedul/icons/blob/main/linkedin%20(2).png?raw=true" alt=""></a>
-<a target="_blank" href="https://dvmoksedul.github.io/moksedul.me/"><img width="30px" src="https://github.com/dvmoksedul/icons/blob/main/globe.png" alt=""></a>
+<a target="_blank" href="https://www.facebook.com/dmoksedul"><img width="30px" src="https://github.com/dvmoksedul/icons/blob/main/facebook.png" alt=""></a>
+<a target="_blank" href="https://instagram.com/dmoksedul"><img width="30px" src="https://github.com/dvmoksedul/icons/blob/main/instagram.png?raw=true" alt=""></a>
+<a target="_blank" href="https://twitter.com/dmoksedul"><img width="30px" src="https://github.com/dvmoksedul/icons/blob/main/twitter.png" alt=""></a>
+<a target="_blank" href="https://linkedin.com/in/dmoksedul"><img width="30px" src="https://github.com/dvmoksedul/icons/blob/main/linkedin%20(2).png?raw=true" alt=""></a>
+<a target="_blank" href="https://dmoksedul.github.io/moksedul.me/"><img width="30px" src="https://github.com/dvmoksedul/icons/blob/main/globe.png" alt=""></a>
 <a target="_blank" href="https://wa.link/r458sm"><img width="30px" src="https://github.com/dvmoksedul/icons/blob/main/whatsapp.png" alt=""></a>
 <br/><br/>
 
