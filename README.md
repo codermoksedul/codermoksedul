@@ -1,4 +1,4 @@
-![Web Developer](https://github.com/dmoksedul/images/blob/main/cover.jpg)
+![Web Developer](https://github.com/dmoksedul/images/blob/main/cover.jpg?raw=true)
 
 # Hi there 👋, I'am Moksedul Islam
 ### Professional Web Developer
