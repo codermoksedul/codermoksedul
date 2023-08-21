@@ -1,6 +1,6 @@
 ![Web Developer](https://github.com/dmoksedul/mydocuments/blob/main/cover.jpg?raw=true)
 
-# I am Moksedul Islam👋
+# I am Moksedul Islam <img src="assets/hello.gif" width="28px" alt="hi">
 
 I am a professional web developer, and WordPress expert with 4 years of experience. I specialize in HTML, CSS, Sass, Bootstrap, Tailwind CSS, JavaScript, jQuery, React JS, Git, and GitHub. I create stunning WordPress websites, Shopify store websites, HTML-CSS-JS website templates, and React User interface designs responsive with pixel-perfect.
 
