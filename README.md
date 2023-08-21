@@ -17,13 +17,14 @@ I am a professional web developer, and WordPress expert with 4 years of experien
 
 I am proficient in solving any problem of front and part WordPress or any other website. I am very dedicated to working. Very dedicated to getting a job done right. Do not motivate to do another task until one task is completed.
 ## Connect with me
-[Facebook](https://facebook.com/dmoksedul)
-[Twitter](https://twitter.com/dmoksedul)
-[Instagram](https://twitter.com/dmoksedul)
-[Linkedin](https://linkedin.com/in/dmoksedul)
-[Whatsapp](https://api.whatsapp.com/send?phone=8801518301895)
-[Website](https://moksedul.dev/)
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dmoksedul) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/learnwithsumit) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmoksedul/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dmoksedul) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dmoksedul) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@moksedul.dev)
 
 ## My Works Portfolio
 
 [moksedul.dev](https://moksedul.dev/)
+
+## Github Stats
+
+![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=dmoksedul&count_private=true&theme=tokyonight&hide=contribs,prs)
+
