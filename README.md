@@ -1,4 +1,4 @@
-![Web Developer](https://github.com/codermoksedul/mydocuments/blob/main/cover.jpg?raw=true)
+
 
 # I am Moksedul Islam <img src="assets/hello.gif" width="28px" alt="hi">
 
