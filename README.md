@@ -8,11 +8,11 @@ I am a professional web developer, and WordPress expert with 4 years of experien
 ## 👨‍💻 My Work Skills
 
 - ✅WordPress
-- ✅Shopify
+- ✅WebFlow
 - ✅HTML / CSS / SASS
 - ✅JavaScript / JQuery
-- ✅React JS / Next JS
-- ✅Photoshop / Illustrator
+- ✅React JS / Next JS / MongoDB
+- ✅Photoshop / Illustrator / Figma
 
 
 I am proficient in solving any problem of front and part WordPress or any other website. I am very dedicated to working. Very dedicated to getting a job done right. Do not motivate to do another task until one task is completed.
@@ -27,4 +27,43 @@ I am proficient in solving any problem of front and part WordPress or any other 
 ## Github Stats
 
 ![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=codermoksedul&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+
+# Hi, I'm a Web Developer & WordPress Expert
+
+I specialize in transforming ideas into fast, responsive websites that enhance user experience and drive engagement. As a professional web developer, I deliver top-notch solutions tailored to your needs, ensuring seamless performance and visual excellence.
+
+## What I Do:
+
+- **Responsive WordPress Design**  
+  Craft stunning websites using Elementor Pro and other page builders, optimized for all devices.
+
+- **Pixel-Perfect Design**  
+  Convert PSD, Figma, or XD designs into precise, visually appealing HTML websites.
+
+- **Interactive UI/UX**  
+  Build dynamic, user-friendly interfaces for React and Next.js applications, enhancing engagement.
+
+- **Website Maintenance**  
+  Keep your site secure, updated, and running smoothly with ongoing maintenance.
+
+- **Problem Solving**  
+  Identify and resolve website issues efficiently to keep your site performing at its best.
+
+## Technologies I Use:
+
+- **Languages**: HTML5, CSS3, Sass, JavaScript, jQuery, React, Next.js, Node.js
+- **Frameworks**: Bootstrap, Tailwind CSS
+- **Version Control**: Git, GitHub
+
+## Let’s Connect
+I'm dedicated to delivering high-quality work on time and within scope. Feel free to reach out to discuss your project or collaboration.
+
+📧 [Your Email]  
+🌐 [Portfolio/Website]  
+🔗 [LinkedIn Profile]
+
+---
+
+Let's create something amazing together!
 
