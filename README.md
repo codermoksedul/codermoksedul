@@ -27,11 +27,12 @@
 
 ### 🔧 Technologies & Tools
 
-- **Languages & Libraries**: HTML5, CSS3, JavaScript, Sass, jQuery, React, Next.js
+- **Languages & Libraries**: HTML5, CSS3, JavaScript, Sass, React, Next.js, Framer Motion
+- **UI Library**: Shadcn, Next UI, Daisy UI
 - **Frameworks**: Tailwind CSS, Bootstrap
 - **Databases**: MongoDB
 - **Version Control**: Git, GitHub
-- **Other Skills**: Webflow, WordPress, 3D animation integration
+- **Other Skills**: **Webflow**, **WordPress**
 
 ---
 
@@ -41,7 +42,7 @@
 - Database management with **MongoDB**
 - 3D animation for interactive user experiences
 - Webflow & WordPress customization
-- UI/UX Design with Tailwind CSS, HTML/CSS, and JavaScript
+- UI/UX Design with Tailwind CSS, HTML/CSS, and JavaScript, React.js, Next.js
 
 ---
 
