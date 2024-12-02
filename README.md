@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Moksedul Islam
 
-🚀 **Full-Stack Developer | Webflow & WordPress Expert | 3D Animation Specialist**
+🚀 **Full-Stack Developer | React.js, Next.js, Tailwind | Webflow & WordPress Expert | **
 
 ---
 
