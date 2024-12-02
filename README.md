@@ -67,6 +67,8 @@ I'm excited to collaborate on projects that blend **innovative design** with **c
 ### 📊 GitHub Stats
 
 ![Moksedul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codermoksedul&count_private=true&theme=tokyonight&hide=contribs,prs)
+![](https://github-readme-streak-stats.herokuapp.com/?user=codermoksedul&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codermoksedul&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
