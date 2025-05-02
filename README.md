@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQELzqAoVQt_QQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729438115610?e=1742428800&v=beta&t=jrlC9ItPsyNt5TAzhtO1JXqEcoCdEzUZXUkANJFOg5w"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQGIWkIYqIax7A/profile-displaybackgroundimage-shrink_350_1400/B4DZaQCzuXH0Ag-/0/1746173384355?e=1751500800&v=beta&t=ySEzA0hyrYXmrkXbUgKzK6aUKJqQgiTVJwE6eQM1Dc0"/>
 
 # 👋 Hi, I'm Moksedul Islam
 
