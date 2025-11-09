@@ -52,7 +52,7 @@ I combine modern front-end technologies with powerful back-end frameworks to cre
 `Webflow` · `WordPress` · `Framer`  
 
 **Version Control & Workflow:**  
-`Git` · `GitHub` · `CI/CD` · `Agile Development`  
+`Git` · `GitHub` 
 
 **Design Integration:**  
 `Figma → Production-Ready Interfaces`  
