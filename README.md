@@ -21,7 +21,7 @@
 
 - **UI/UX Design**  
   - Focus on user-centric designs, leveraging **React** and **Next.js** to build intuitive, interactive, and aesthetic interfaces.
-  - Convert **PSD, Figma, or XD** designs into pixel-perfect, responsive layouts.
+  - Convert **Figma designs into pixel-perfect, responsive layouts.
 
 ---
 
