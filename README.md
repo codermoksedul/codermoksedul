@@ -64,10 +64,10 @@ I combine modern front-end technologies with powerful back-end frameworks to cre
 I collaborate with startups, agencies, and creative teams to deliver **modern SaaS products** and **interactive digital experiences**.  
 If you're building something ambitious, let’s connect and make it happen.  
 
-📧 **Email:** [info@moksedul.dev](mailto:info@moksedul.dev)  
+📧 **Email:** [info@moksedul.dev](mailto:hello@moksedul.dev)  
 🌐 **Portfolio:** [moksedul.dev](https://moksedul.dev)  
-💼 **LinkedIn:** [linkedin.com/in/codermoksedul](https://linkedin.com/in/codermoksedul)  
-🐦 **Twitter/X:** [@codermoksedul](https://twitter.com/codermoksedul)  
+💼 **LinkedIn:** [linkedin.com/in/codermoksedul](https://linkedin.com/in/hellomoksedul)  
+🐦 **Twitter/X:** [@codermoksedul](https://twitter.com/hellomoksedul)  
 
 ---
 
