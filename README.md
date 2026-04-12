@@ -64,8 +64,8 @@ I combine modern front-end technologies with powerful back-end frameworks to cre
 I collaborate with startups, agencies, and creative teams to deliver **modern SaaS products** and **interactive digital experiences**.  
 If you're building something ambitious, let’s connect and make it happen.  
 
-📧 **Email:** [hello@moksedul.dev](mailto:hello@moksedul.dev)  
-🌐 **Portfolio:** [moksedul.dev](https://moksedul.dev)  
+📧 **Email:** [hello@moksedul.com](mailto:hello@moksedul.com)  
+🌐 **Portfolio:** [moksedul.com](https://moksedul.com)  
 💼 **LinkedIn:** [linkedin.com/in/hellomoksedul](https://linkedin.com/in/hellomoksedul)  
 🐦 **Twitter/X:** [@hellomoksedul](https://twitter.com/hellomoksedul)  
 
@@ -74,7 +74,7 @@ If you're building something ambitious, let’s connect and make it happen.
 ### 🌟 Featured Skills  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,typescript,javascript,tailwind,postgres,mongodb,git,figma,wordpress,webflow" />
+  <img src="https://skillicons.com/icons?i=react,nextjs,nodejs,nestjs,express,typescript,javascript,tailwind,postgres,mongodb,git,figma,wordpress,webflow" />
 </p>
 
 ---
@@ -93,13 +93,13 @@ If you're building something ambitious, let’s connect and make it happen.
 
 ### 📫 Connect with Me
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/codermoksedul) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codermoksedul/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codermoksedul) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codermoksedul) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@moksedul.dev) [![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-075e54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801518301895)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/codermoksedul) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codermoksedul/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codermoksedul) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codermoksedul) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@moksedul.com) [![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-075e54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801518301895)
 
 ---
 
 ## 🌐 My Works Portfolio
 
-[https://moksedul.dev](https://moksedul.dev/)
+[https://moksedul.com](https://moksedul.com/)
 
 ---
 
