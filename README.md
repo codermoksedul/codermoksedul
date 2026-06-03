@@ -71,23 +71,6 @@ If you're building something ambitious, let’s connect and make it happen.
 
 ---
 
-### 🌟 Featured Skills  
-
-<p align="left">
-  <img src="https://skillicons.com/icons?i=react,nextjs,nodejs,nestjs,express,typescript,javascript,tailwind,postgres,mongodb,git,figma,wordpress,webflow" />
-</p>
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codermoksedul&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=codermoksedul&theme=radical" />
-</p>
-
----
-
 ⭐ **"Code with creativity, build with purpose."**  
 
 
