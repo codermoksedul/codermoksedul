@@ -1,4 +1,4 @@
-<img src="https://github.com/hellomoksedul/hellomoksedul/blob/main/cover.png"/>
+<img src="https://raw.githubusercontent.com/hellomoksedul/hellomoksedul/refs/heads/main/cover.webp"/>
 
 # 👋 Hi, I'm Moksedul Islam  
 
